@@ -1,0 +1,9 @@
+.idea/
+**/__pycache__/
+**/*.pyc
+
+# Ignore virtual envs
+venv/
+
+# Ignore full trivia directory, keep lighter version (MSc AI Trivia - Lite/) for Git
+MSc AI Trivia/
