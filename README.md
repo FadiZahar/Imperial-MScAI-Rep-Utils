@@ -85,9 +85,9 @@ Contributions are welcome! If you're a current or past student representative an
 When updating or adding new exam summary sheets in the `Exam A4 Sheets/` directory, please adhere to the following naming conventions to ensure consistency across the repository:
 
 - **Naming Format:** Files should be named in the format `{Year}__ExamSheet_{ModuleName}__by_{FullName}.pdf`, where:
-  - `{Year}` is replaced with the academic year (e.g., <span style="color: green;">2023-2024</span>).
-  - `{ModuleName}` is the specific module name abbreviation (e.g., <span style="color: green;">DL</span> for Deep Learning).
-  - `{FullName}` is the full name of the person who created or last updated the file (e.g., <span style="color: green;">JohnDoe</span>).
+  - `{Year}` is replaced with the academic year (e.g., <code style="color : green">2023-2024</code>).
+  - `{ModuleName}` is the specific module name abbreviation (e.g., <code style="color : green">DL</code> for Deep Learning).
+  - `{FullName}` is the full name of the person who created or last updated the file (e.g., <code style="color : green">John_Doe</code>).
 
 >This naming convention helps maintain a clear and organised repository and ensures proper credit is given to contributors for their work—matching the curriculum content relevant to the specified academic year. 
 
