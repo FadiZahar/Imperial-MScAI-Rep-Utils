@@ -52,11 +52,12 @@ Imperial-MScAI-Rep-Utils/
 │   ├── Assets/  
 │   ├── Trivia PPT/ 
 │   └── Trivia Sheets/
-├── Anonymous_Feedback_Form_Example--MScAI.pdf  # Google Forms examples for collecting student feedback
-├── Booking_Rooms--MScAI.pdf                    # Guide for booking rooms and available spaces at Imperial
-├── Huxley-Labs_Map.pdf                         # Map of Huxley labs
-├── Key Websites for Reps.pdf                   # Useful links for reps, provided by the Union
-├── Support_Wellbeing_Extensions--MScAI.pdf     # Overview of available student support services
+├── Resources/                                  # Resources and guides for both students and reps
+│   ├── Booking_Rooms--MScAI/                   # Guide for booking rooms and available spaces at Imperial
+│   ├── Feedback_Form_Examples--MScAI/           # Google Forms examples for collecting anonymous student feedback
+│   ├── Support_Wellbeing_Extensions--MScAI/    # Overview of available student support services
+│   ├── Huxley-Labs_Map.pdf                     # Map of Huxley labs
+│   └── Key Websites for Reps.pdf               # Useful links for reps, provided by the Union
 ├── README.md                                   # This README file
 ├── .gitattributes                              # Git LFS config for large files (e.g., Trivia PPT)
 └── .gitignore                                  
