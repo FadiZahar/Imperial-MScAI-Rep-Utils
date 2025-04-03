@@ -54,7 +54,7 @@ Imperial-MScAI-Rep-Utils/
 │   └── Trivia Sheets/
 ├── Resources/                                  # Resources and guides for both students and reps
 │   ├── Booking_Rooms--MScAI/                   # Guide for booking rooms and available spaces at Imperial
-│   ├── Feedback_Form_Examples--MScAI/           # Google Forms examples for collecting anonymous student feedback
+│   ├── Feedback_Form_Examples--MScAI/          # Google Forms examples for collecting anonymous student feedback
 │   ├── Support_Wellbeing_Extensions--MScAI/    # Overview of available student support services
 │   ├── Huxley-Labs_Map.pdf                     # Map of Huxley labs
 │   └── Key Websites for Reps.pdf               # Useful links for reps, provided by the Union
