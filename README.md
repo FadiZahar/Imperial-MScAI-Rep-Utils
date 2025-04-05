@@ -48,6 +48,7 @@ Imperial-MScAI-Rep-Utils/
 │   ├── ExamSheet_RL/                            
 │   ├── ExamSheet_SymbolicAI/ 
 │   └── ...
+├── Misc/                                       # Miscellaneous directory for pictures
 ├── MSc AI Trivia - Lite/                       # Light version of assets needed for MSc AI Trivia night
 │   ├── Assets/  
 │   ├── Trivia PPT/ 
